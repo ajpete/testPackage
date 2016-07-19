@@ -9,7 +9,7 @@
 #' @return None The function is called
 #'   solely for its side effect
 #' @examples
-#' plotSquare(5)
+#' plotSquare(7)
 #'
 #' @seealso The general
 #'   \code{\link[graphics]{plot}} function
